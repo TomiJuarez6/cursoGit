@@ -1,0 +1,5 @@
+Mi nombre es Juárez Tomás
+
+Soy alumno de la carrera TSDS.
+En el Instituto Superior de Profesorado N°20.
+Estamos aprendiendo Git
