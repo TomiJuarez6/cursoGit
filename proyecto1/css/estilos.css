@@ -19,6 +19,11 @@ body{
     background-color: paleturquoise;
     text-align: left;
     padding: 10px;
+    text-decoration: underline;
+}
+
+.cabecera:hover{
+    transform: scale(1.1);
 }
 
 span{
